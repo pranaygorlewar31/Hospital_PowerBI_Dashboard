@@ -1,4 +1,4 @@
-# Healthcare_PowerBI_Dashboard
+# Guru_Hospitals_PowerBI_Dashboard
 Interactive Guru Hostipals Analytics Dashboard bulid using Microsoft Power BI,DAX, and Data Visualization.
 
 # Tools &Technologies
@@ -13,9 +13,9 @@ Interactive Guru Hostipals Analytics Dashboard bulid using Microsoft Power BI,DA
 - Interactive filters and slicer
 - KPI cards
 - Interactive Healthcare insights
-- 
+  
 # Data Base
-Use a Demo Data of Hostipals
+Use a Demo Hospital data for analysis and visulization
 
 # Project File
 'Healthcare dashboard.pbix'
